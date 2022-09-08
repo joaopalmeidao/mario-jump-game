@@ -45,6 +45,7 @@ body {
 footer{
     bottom: 0;
     position: absolute;
+    right: 0;
 }
 
 @keyframes pipe-animation {
