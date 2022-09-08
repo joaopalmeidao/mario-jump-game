@@ -26,7 +26,11 @@ const loop = setInterval(() => {
         mario.style.width = '80px'
         mario.style.marginLeft = '50px'
 
-        clearInterval(loop)
+        clearInterval(loop);
+
+        alert('Você Perdeu!!\nYou Loose!!');
+
+        document.location.reload(true);
 
     }
 
