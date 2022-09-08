@@ -1,6 +1,6 @@
 # MARIO JUMP GAME 
 
-## hoested on Firebase https://mario-jump-game.web.app/
+## hosted on Firebase https://mario-jump-game.web.app/
  
 
 
