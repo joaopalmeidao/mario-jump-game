@@ -6,6 +6,4 @@
 # mobile version still on test phase
  
 
-##### Credits https://www.youtube.com/watch?v=r9buAwVBDhA&t=51s
-
 
