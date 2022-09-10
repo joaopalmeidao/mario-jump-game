@@ -3,7 +3,7 @@
 ## hosted on Firebase https://mario-jump-game.web.app/
 
 
-# mobile version still on test phase
+#### mobile version still on test phase
  
 
 
